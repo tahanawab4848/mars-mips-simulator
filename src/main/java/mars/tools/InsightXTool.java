@@ -403,12 +403,11 @@ public class InsightXTool implements MarsTool {
     }
 
     private void stopFileWatcher() {
-    // Implementation to stop file watcher
-    // If fileWatcher is a WatchService or similar:
     if (fileWatcher != null) {
         try {
-            fileWatcher.close();
-        } catch (IOException e) {
+            // Timer uses cancel(), not close()
+            fileWatcher.cancel();
+        } catch (Exception e) {
             // Log or ignore
         }
         fileWatcher = null;
