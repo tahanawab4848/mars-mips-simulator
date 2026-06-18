@@ -402,12 +402,12 @@ public class InsightXTool implements MarsTool {
         return b;
     }
 
-private void stopFileWatcher() {
-    if (fileWatcher != null) {
-        fileWatcher.stop();  // javax.swing.Timer uses stop()
-        fileWatcher = null;
+    private void stopFileWatcher() {
+            if (fileWatcher != null) {
+                fileWatcher.stop();
+                fileWatcher = null;
+            }
     }
-}
 
     private static void styleTextField(JTextField tf) {
         tf.setBackground(new Color(0x1A1A2E));
