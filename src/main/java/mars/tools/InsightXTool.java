@@ -402,13 +402,19 @@ public class InsightXTool implements MarsTool {
         return b;
     }
 
-    private void stopFileWatcher() {
+private void stopFileWatcher() {
     if (fileWatcher != null) {
         try {
-            // Timer uses cancel(), not close()
-            fileWatcher.cancel();
+            // For java.util.Timer
+            if (fileWatcher instanceof java.util.Timer) {
+                ((java.util.Timer) fileWatcher).cancel();
+            }
+            // For javax.swing.Timer
+            else if (fileWatcher instanceof javax.swing.Timer) {
+                ((javax.swing.Timer) fileWatcher).stop();
+            }
         } catch (Exception e) {
-            // Log or ignore
+            // Ignore any errors
         }
         fileWatcher = null;
     }
