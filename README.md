@@ -1,4 +1,4 @@
-<h1 align="center">MARS Studio</h1>
+<h1 align="center">MIPS-MARS-SIMULATOR (MARS STUDIO)</h1>
 
 
 <p align="center">
