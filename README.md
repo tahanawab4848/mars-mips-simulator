@@ -140,4 +140,4 @@ java -jar build/libs/mars-4.5.jar
 4. **Visualize**: Use **→ Step** to execute one instruction at a time and watch the Registers, Memory, Datapath, and Pipeline panels come alive.
 
 ---
-*Built upon the foundation of MARS 4.5 by Pete Sanderson and Ken Vollmar.*
+*Built upon the foundation of MARS 4.5 by Pete Sanderson and Ken Vollmar by* Muhammad Taha Nawab.
