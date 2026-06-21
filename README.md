@@ -138,6 +138,13 @@ java -jar build/libs/mars-4.5.jar
 2. **Write C Code**: Open the **"C Programming"** tab.
 3. **Compile**: Click **⚙ Compile** to generate the MIPS assembly.
 4. **Visualize**: Use **→ Step** to execute one instruction at a time and watch the Registers, Memory, Datapath, and Pipeline panels come alive.
+## 💻⚙️🔧Developed By
+╰┈➤ **Muhammad Taha Nawab**
+
+╰┈➤ **Muhammad Zain Nadeem**
+
+╰┈➤ **Hassan Ali**
+
 
 ---
 *Built upon the foundation of MARS 4.5 by Pete Sanderson and Ken Vollmar by Muhammad Taha Nawab*.
