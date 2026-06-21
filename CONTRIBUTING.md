@@ -5,7 +5,7 @@ First off, thank you for considering contributing to MARS Studio! It's people li
 ## Getting Started
 
 1. **Fork the repository** on GitHub.
-2. **Clone** your fork locally: `git clone https://github.com/tahanawab4848/mars-master.git` (or your fork's URL).
+2. **Clone** your fork locally: `git clone https://github.com/tahanawab4848/mars-mips-simulator.git` (or your fork's URL).
 3. **Open the project** in your preferred IDE (like IntelliJ IDEA or Eclipse).
 
 ## Building the Project

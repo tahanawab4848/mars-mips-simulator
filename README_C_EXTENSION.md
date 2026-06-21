@@ -48,7 +48,7 @@ clang -target mips-linux-gnu --version
 ## Build & Run
 
 ```bash
-# In the mars-master directory:
+# In the mars-mips-simulator directory:
 .\gradlew.bat run        # Windows
 ./gradlew run            # Linux/macOS
 ```
