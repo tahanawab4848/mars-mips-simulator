@@ -102,6 +102,13 @@ pacman -S mingw-w64-x86_64-mips-toolchain
 
 ## 💻 Build & Run
 
+First, clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/tahanawab4848/mars-mips-simulator.git
+cd mars-mips-simulator
+```
+
 Run the project directly using the provided Gradle wrappers:
 
 ```bash
@@ -114,7 +121,12 @@ Run the project directly using the provided Gradle wrappers:
 
 To build a standalone executable JAR:
 ```bash
+# Windows
 .\gradlew.bat jar
+java -jar build/libs/mars-4.5.jar
+
+# Linux/macOS
+./gradlew jar
 java -jar build/libs/mars-4.5.jar
 ```
 
