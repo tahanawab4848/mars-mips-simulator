@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tahanawab4848/Mars-Studio/actions/workflows/build.yml">
-    <img src="https://github.com/tahanawab4848/Mars-Studio/actions/workflows/build.yml/badge.svg" alt="Build Status" />
+  <a href="https://github.com/tahanawab4848/mars-mips-simulator/actions/workflows/build.yml">
+    <img src="https://github.com/tahanawab4848/mars-mips-simulator/actions/workflows/build.yml/badge.svg" alt="Build Status" />
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tahanawab4848/Mars-Studio/stargazers">
-    <img src="https://img.shields.io/github/stars/tahanawab4848/Mars-Studio.svg?style=social" alt="GitHub stars" />
+  <a href="https://github.com/tahanawab4848/mars-mips-simulator/stargazers">
+    <img src="https://img.shields.io/github/stars/tahanawab4848/mars-mips-simulator.svg?style=social" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/tahanawab4848/Mars-Studio/network/members">
-    <img src="https://img.shields.io/github/forks/tahanawab4848/Mars-Studio.svg?style=social" alt="GitHub forks" />
+  <a href="https://github.com/tahanawab4848/mars-mips-simulator/network/members">
+    <img src="https://img.shields.io/github/forks/tahanawab4848/mars-mips-simulator.svg?style=social" alt="GitHub forks" />
   </a>
 </p>
 
