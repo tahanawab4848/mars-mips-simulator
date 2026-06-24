@@ -143,8 +143,5 @@ java -jar build/libs/mars-4.5.jar
 
 ╰┈➤ **Muhammad Zain Nadeem**
 
-╰┈➤ **Hassan Ali**
-
-
 ---
 *Built upon the foundation of MARS 4.5 by Pete Sanderson and Ken Vollmar by Muhammad Taha Nawab*.
